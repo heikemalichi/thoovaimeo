@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dahciejiro.julien.engineering/sitemap.xml
